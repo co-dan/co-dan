@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**co-dan/co-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="http://cs.ru.nl/~dfrumin/img/flower.gif" /> <b> Hello there </b> 
+  <br />
+</div>
 
-Here are some ideas to get you started:
+For more information please [visit my webpage](https://cs.ru.nl/~dfrumin) <img src="http://cs.ru.nl/~dfrumin/img/work1.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <marquee>thank you for visiting my profile</marquee>
+<img src="http://cs.ru.nl/~dfrumin/img/computer.gif" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="http://cs.ru.nl/~dfrumin/img/kitchensink.png" />
+</div>  
+
+
